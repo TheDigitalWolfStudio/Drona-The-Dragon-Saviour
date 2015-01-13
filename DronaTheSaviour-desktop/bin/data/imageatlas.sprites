@@ -1,0 +1,144 @@
+imageatlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+knightEnemy
+  rotate: false
+  xy: 0, 0
+  size: 2048, 275
+  orig: 24, 1
+  offset: 24, 1
+  index: -1
+drona
+  rotate: false
+  xy: 1024, 1114
+  size: 288, 384
+  orig: 1025, 1124
+  offset: 1, 10
+  index: -1
+explosion
+  rotate: false
+  xy: 1312, 1114
+  size: 320, 320
+  orig: 1316, 1126
+  offset: 4, 12
+  index: -1
+logo
+  rotate: false
+  xy: 0, 1498
+  size: 493, 169
+  orig: 0, 1498
+  offset: 0, 0
+  index: -1
+parallaxbg2
+  rotate: false
+  xy: 0, 1114
+  size: 1024, 256
+  orig: 0, 1126
+  offset: 0, 12
+  index: -1
+powerup
+  rotate: false
+  xy: 1005, 1498
+  size: 867, 63
+  orig: 1037, 1510
+  offset: 32, 12
+  index: -1
+pawns1
+  rotate: false
+  xy: 1524, 1667
+  size: 288, 99
+  orig: 1525, 1670
+  offset: 1, 3
+  index: -1
+pawns2
+  rotate: false
+  xy: 493, 1498
+  size: 512, 112
+  orig: 505, 1502
+  offset: 12, 4
+  index: -1
+bg
+  rotate: false
+  xy: 0, 550
+  size: 960, 540
+  orig: 0, 550
+  offset: 0, 0
+  index: -1
+splash
+  rotate: false
+  xy: 0, 1837
+  size: 282, 66
+  orig: 1, 1838
+  offset: 1, 1
+  index: -1
+conspirator
+  rotate: false
+  xy: 960, 550
+  size: 500, 564
+  orig: 964, 550
+  offset: 4, 0
+  index: -1
+infoDronaDead
+  rotate: false
+  xy: 500, 1667
+  size: 256, 170
+  orig: 500, 1667
+  offset: 0, 0
+  index: -1
+infoKilledByBossEnemy
+  rotate: false
+  xy: 756, 1667
+  size: 256, 170
+  orig: 756, 1667
+  offset: 0, 0
+  index: -1
+infoKilledByConspirators
+  rotate: false
+  xy: 1012, 1667
+  size: 256, 170
+  orig: 1012, 1667
+  offset: 0, 0
+  index: -1
+infoKilledByPawns
+  rotate: false
+  xy: 1268, 1667
+  size: 256, 170
+  orig: 1268, 1667
+  offset: 0, 0
+  index: -1
+knightEnemy2
+  rotate: false
+  xy: 0, 275
+  size: 2048, 275
+  orig: 24, 276
+  offset: 24, 1
+  index: -1
+dragon
+  rotate: false
+  xy: 0, 1667
+  size: 500, 100
+  orig: 5, 1670
+  offset: 5, 3
+  index: -1
+magicalpower
+  rotate: false
+  xy: 282, 1837
+  size: 97, 97
+  orig: 283, 1838
+  offset: 1, 1
+  index: -1
+nothing
+  rotate: false
+  xy: 2028, 2028
+  size: 20, 20
+  orig: 2028, 2028
+  offset: 0, 0
+  index: -1
+parallax_bg
+  rotate: false
+  xy: 0, 550
+  size: 480, 540
+  orig: 0, 550
+  offset: 0, 0
+  index: -1

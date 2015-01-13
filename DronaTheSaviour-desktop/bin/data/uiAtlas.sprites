@@ -1,0 +1,200 @@
+uiAtlas.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+pause_button
+  rotate: false
+  xy: 1328, 1150
+  size: 100, 100
+  orig: 1328, 1150
+  offset: 0, 0
+  index: -1
+button_off
+  rotate: false
+  xy: 1746, 1000
+  size: 128, 128
+  orig: 1746, 1000
+  offset: 0, 0
+  index: -1
+button_on
+  rotate: false
+  xy: 1874, 1000
+  size: 128, 128
+  orig: 1874, 1000
+  offset: 0, 0
+  index: -1
+startgame_button
+  rotate: false
+  xy: 128, 1150
+  size: 150, 72
+  orig: 128, 1150
+  offset: 0, 0
+  index: -1
+startgame_button2
+  rotate: false
+  xy: 278, 1150
+  size: 150, 72
+  orig: 278, 1150
+  offset: 0, 0
+  index: -1
+settings_button
+  rotate: false
+  xy: 428, 1150
+  size: 150, 72
+  orig: 428, 1150
+  offset: 0, 0
+  index: -1
+settings_button2
+  rotate: false
+  xy: 578, 1150
+  size: 150, 72
+  orig: 578, 1150
+  offset: 0, 0
+  index: -1
+button_credits
+  rotate: false
+  xy: 728, 1150
+  size: 150, 72
+  orig: 728, 1150
+  offset: 0, 0
+  index: -1
+button_credits2
+  rotate: false
+  xy: 878, 1150
+  size: 150, 72
+  orig: 878, 1150
+  offset: 0, 0
+  index: -1
+button_highscore
+  rotate: false
+  xy: 1028, 1150
+  size: 150, 72
+  orig: 1028, 1150
+  offset: 0, 0
+  index: -1
+back_button
+  rotate: false
+  xy: 0, 1150
+  size: 128, 128
+  orig: 4, 1160
+  offset: 4, 10
+  index: -1
+transparent
+  rotate: false
+  xy: 1700, 0
+  size: 300, 186
+  orig: 1700, 0
+  offset: 0, 0
+  index: -1
+button_menu
+  rotate: false
+  xy: 310, 1000
+  size: 300, 109
+  orig: 316, 1000
+  offset: 6, 0
+  index: -1
+button_menu2
+  rotate: false
+  xy: 610, 1000
+  size: 300, 109
+  orig: 616, 1000
+  offset: 6, 0
+  index: -1
+highscore_table
+  rotate: false
+  xy: 800, 0
+  size: 500, 400
+  orig: 800, 3
+  offset: 0, 3
+  index: -1
+button_highscore2
+  rotate: false
+  xy: 1178, 1150
+  size: 150, 72
+  orig: 1178, 1150
+  offset: 0, 0
+  index: -1
+shoot_button
+  rotate: false
+  xy: 910, 1000
+  size: 150, 150
+  orig: 910, 1000
+  offset: 0, 0
+  index: -1
+enerylevel
+  rotate: false
+  xy: 0, 1000
+  size: 310, 128
+  orig: 11, 1005
+  offset: 11, 5
+  index: -1
+flyButton
+  rotate: false
+  xy: 1060, 1000
+  size: 150, 150
+  orig: 1060, 1000
+  offset: 0, 0
+  index: -1
+emptyBox
+  rotate: false
+  xy: 1210, 1000
+  size: 134, 134
+  orig: 1210, 1000
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 1344, 1000
+  size: 134, 134
+  orig: 1344, 1000
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 1478, 1000
+  size: 134, 134
+  orig: 1478, 1000
+  offset: 0, 0
+  index: -1
+weapon3
+  rotate: false
+  xy: 1612, 1000
+  size: 134, 134
+  orig: 1612, 1000
+  offset: 0, 0
+  index: -1
+poof-1
+  rotate: false
+  xy: 1428, 1150
+  size: 64, 128
+  orig: 1430, 1173
+  offset: 2, 23
+  index: -1
+poof-2
+  rotate: false
+  xy: 1492, 1150
+  size: 64, 128
+  orig: 1492, 1172
+  offset: 0, 22
+  index: -1
+lock_icon
+  rotate: false
+  xy: 1556, 1150
+  size: 64, 64
+  orig: 1561, 1150
+  offset: 5, 0
+  index: -1
+credits
+  rotate: false
+  xy: 0, 0
+  size: 800, 1000
+  orig: 7, 0
+  offset: 7, 0
+  index: -1
+rating
+  rotate: false
+  xy: 1300, 0
+  size: 400, 426
+  orig: 1314, 14
+  offset: 14, 14
+  index: -1
